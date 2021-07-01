@@ -1,0 +1,5 @@
+create a server folder
+npm init -y to add a package.json so we can install packages
+add index.js file to server folder
+modify package.json script and add "start":"nodemon index.js"
+install apollo-server and graphql packages
